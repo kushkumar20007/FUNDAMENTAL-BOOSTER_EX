@@ -1,14 +1,5 @@
 # 📊 PR. 1 — Fundamental Booster | Excel Formula Mastery
 
-<p align="center">
-  <b>A practical Excel project covering formulas, lookup functions, dynamic references, data analysis, and conditional logic.</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-Formula%20Practice-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
-  <img src="https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-blue?style=for-the-badge" alt="Beginner to Intermediate"/>
-  <img src="https://img.shields.io/badge/Focus-Data%20Analysis-orange?style=for-the-badge" alt="Data Analysis"/>
-</p>
 
 ## 📌 Project Overview
 
