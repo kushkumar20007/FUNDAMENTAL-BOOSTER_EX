@@ -46,6 +46,11 @@ The workbook is organized around practical exercises, with an emphasis on writin
 5. **Analyze joining dates** — format employee joining dates and calculate date-related values.
 6. **Filter high-performing students** — use `FILTER` to return students with scores above 80.
 
+
+## 🎥 Video Demonstration
+
+[![Watch Video](https://img.shields.io/badge/🎥-Watch_Video-red?style=for-the-badge)](video)
+
 ## 🗂️ Practice Modules
 
 ### 1. Cell References, Formatting & Data Input
