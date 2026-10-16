@@ -139,7 +139,9 @@ The workbook is organized around practical exercises, with an emphasis on writin
 ## 📦 Deliverable
 
 A completed Excel workbook containing the required formulas, formatted data, and outputs for the practice modules.
+## 👨‍💻 Author
 
+**Kush Kumar**
 ## 📚 Learning Outcome
 
 By completing this project, learners practice using Excel for **data entry, logical decision-making, data lookup, date calculations, and formula-driven analysis**.
