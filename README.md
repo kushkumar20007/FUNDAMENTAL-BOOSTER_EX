@@ -49,7 +49,7 @@ The workbook is organized around practical exercises, with an emphasis on writin
 
 ## 🎥 Video Demonstration
 
-[![Watch Video](https://img.shields.io/badge/🎥-Watch_Video-red?style=for-the-badge)](video)
+[![Watch Video](https://img.shields.io/badge/🎥-Watch_Video-red?style=for-the-badge)(https://drive.google.com/file/d/1FvaRePRLKLKudx00dU6BR1QMPsuATuBr/view?usp=sharing)
 
 ## 🗂️ Practice Modules
 
